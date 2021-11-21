@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://3254255781.github.io/miku.github.io/</id>
     <title>lixiaojuan</title>
-    <updated>2021-11-21T05:49:30.733Z</updated>
+    <updated>2021-11-21T06:10:13.220Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://3254255781.github.io/miku.github.io/"/>
     <link rel="self" href="https://3254255781.github.io/miku.github.io/atom.xml"/>
@@ -260,6 +260,21 @@ HATSUNE MIKU EXPO 2018 USA (1张)<br>
 是这个世界中的谁、是谁呢<br>
 一起来MIKUMIKU吧♪<br>
 所以让我唱更多歌吧</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于]]></title>
+        <id>https://3254255781.github.io/miku.github.io/post/about/</id>
+        <link href="https://3254255781.github.io/miku.github.io/post/about/">
+        </link>
+        <updated>2019-01-25T11:09:48.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>欢迎来到我的小站呀，很高兴遇见你！🤝</p>
+</blockquote>
+<h2 id="关于本站为miku建立">🏠 关于本站为miku建立</h2>
+<h2 id="博主是谁lixiaojuanwx">👨‍💻 博主是谁lixiaojuan（WX)</h2>
+<h2 id="兴趣爱好科技数码">⛹ 兴趣爱好科技数码</h2>
+<h2 id="联系我呀bilibilihttpsspacebilibilicom329353353">📬 联系我呀bilibili：https://space.bilibili.com/329353353</h2>
 ]]></content>
     </entry>
     <entry>
