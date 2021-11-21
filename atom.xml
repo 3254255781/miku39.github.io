@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://3254255781.github.io/miku/</id>
+    <id>https://3254255781.github.io/miku.github.io/</id>
     <title>lixiaojuan</title>
-    <updated>2021-11-21T04:58:38.166Z</updated>
+    <updated>2021-11-21T05:46:03.811Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://3254255781.github.io/miku/"/>
-    <link rel="self" href="https://3254255781.github.io/miku/atom.xml"/>
+    <link rel="alternate" href="https://3254255781.github.io/miku.github.io/"/>
+    <link rel="self" href="https://3254255781.github.io/miku.github.io/atom.xml"/>
     <subtitle>把你mikumiku掉</subtitle>
-    <logo>https://3254255781.github.io/miku/images/avatar.png</logo>
-    <icon>https://3254255781.github.io/miku/favicon.ico</icon>
+    <logo>https://3254255781.github.io/miku.github.io/images/avatar.png</logo>
+    <icon>https://3254255781.github.io/miku.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, lixiaojuan</rights>
     <entry>
         <title type="html"><![CDATA[关于歌姬计划]]></title>
-        <id>https://3254255781.github.io/miku/post/guan-yu-ge-ji-ji-hua/</id>
-        <link href="https://3254255781.github.io/miku/post/guan-yu-ge-ji-ji-hua/">
+        <id>https://3254255781.github.io/miku.github.io/post/guan-yu-ge-ji-ji-hua/</id>
+        <link href="https://3254255781.github.io/miku.github.io/post/guan-yu-ge-ji-ji-hua/">
         </link>
         <updated>2021-11-21T04:18:29.000Z</updated>
         <content type="html"><![CDATA[<p>《初音未来：歌姬计划》是由Dingo开发（psp之后版本由sega开发），SEGA发行的音乐节奏类游戏，于2009年7月2日发行。<br>
@@ -33,7 +33,7 @@
 (注2:歌姬计划街机版中投一次币最多打三首歌(STAGE 1、STAGE 2、FINAL STAGE)，还有一个隐藏的ENCORE STAGE，ENCORE STAGE的触发条件不详(在debug中有关于ENCORE STAGE的贴图)，一旦触发ENCORE STAGE，SAFETY！时间将消失，所有难度的CLEAR达成率都会被设置为80%街机版拥有新模式，去掉了长按条和同时按方向键，而增加了LR左右滑条、hold键和多按键同按，相对于psppsvps3和psv的歌姬计划x更加难，此玩法移植到ps4平台上的歌姬计划ftdx和ns平台上的mega39's。<br>
 装扮模式<br>
 初音未来：歌姬计划PS4版服装选择界面<br>
-初音未来：歌姬计划PS4版服装选择界面<img src="https://3254255781.github.io/miku//post-images/1637468557953.jpg" alt="" loading="lazy"><br>
+初音未来：歌姬计划PS4版服装选择界面<img src="https://3254255781.github.io/miku.github.io//post-images/1637468557953.jpg" alt="" loading="lazy"><br>
 在装扮自定模式中，玩家可以使用游戏中取得的道具与组件来替初音换装，在diva房间中可以自由装饰游戏中初音居住的房间，包括变更设计风格或摆设书架、桌椅或电视等家具。(注:街机版，FT(DX)以及mega39s无diva房间)<br>
 初音的房间也将能布置。可以在节奏游戏当中取得家具零件来布置房间，而初音似乎也会因为房间的摆设不同而有不同的动作哦。</p>
 <p>编辑模式<br>
@@ -109,12 +109,12 @@ NS<br>
     </entry>
     <entry>
         <title type="html"><![CDATA[关于miku]]></title>
-        <id>https://3254255781.github.io/miku/post/guan-yu-miku/</id>
-        <link href="https://3254255781.github.io/miku/post/guan-yu-miku/">
+        <id>https://3254255781.github.io/miku.github.io/post/guan-yu-miku/</id>
+        <link href="https://3254255781.github.io/miku.github.io/post/guan-yu-miku/">
         </link>
         <updated>2021-11-21T04:12:12.000Z</updated>
         <content type="html"><![CDATA[<p>初音未来（ 初音ミク / Hatsune Miku ），是2007年8月31日由 Crypton Future Media 以雅马哈的 Vocaloid 系列语音合成程序为基础开发的音源库，音源数据资料采样于日本声优藤田咲。<br>
-2010年4月30日，发布初音未来6种不同声调的版本“初音未来Append”。2013年8月31日，初音未来英文版本同VOCALOID3一并发行。此外，初音未来还担任日本音乐团体Sound Horizon的演唱与合唱。<img src="https://3254255781.github.io/miku//post-images/1637467979491.jpg" alt="" loading="lazy"><br>
+2010年4月30日，发布初音未来6种不同声调的版本“初音未来Append”。2013年8月31日，初音未来英文版本同VOCALOID3一并发行。此外，初音未来还担任日本音乐团体Sound Horizon的演唱与合唱。<img src="https://3254255781.github.io/miku.github.io//post-images/1637467979491.jpg" alt="" loading="lazy"><br>
 初音：“最初的声音（初めての音）”“出发点” “最初的VOCALOID2”<br>
 ミク：汉字写作“未来”，指“VOCALOID所象征的将来音乐之可能性”<br>
 活动记录<br>
@@ -215,11 +215,11 @@ HATSUNE MIKU EXPO 2018 USA (1张)<br>
     </entry>
     <entry>
         <title type="html"><![CDATA[把你mikumiku掉！]]></title>
-        <id>https://3254255781.github.io/miku/post/ba-ni-mikumiku-diao/</id>
-        <link href="https://3254255781.github.io/miku/post/ba-ni-mikumiku-diao/">
+        <id>https://3254255781.github.io/miku.github.io/post/ba-ni-mikumiku-diao/</id>
+        <link href="https://3254255781.github.io/miku.github.io/post/ba-ni-mikumiku-diao/">
         </link>
         <updated>2021-11-21T04:10:23.000Z</updated>
-        <content type="html"><![CDATA[<p><img src="https://3254255781.github.io/miku//post-images/1637467924725.png" alt="" loading="lazy"><br>
+        <content type="html"><![CDATA[<p><img src="https://3254255781.github.io/miku.github.io//post-images/1637467924725.png" alt="" loading="lazy"><br>
 日文<br>
 科学の限界を超えて私は来たんだよ<br>
 ネギはついてないけど出来れば欲しいな<br>
@@ -264,8 +264,8 @@ HATSUNE MIKU EXPO 2018 USA (1张)<br>
     </entry>
     <entry>
         <title type="html"><![CDATA[你好]]></title>
-        <id>https://3254255781.github.io/miku/post/hello-gridea/</id>
-        <link href="https://3254255781.github.io/miku/post/hello-gridea/">
+        <id>https://3254255781.github.io/miku.github.io/post/hello-gridea/</id>
+        <link href="https://3254255781.github.io/miku.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
