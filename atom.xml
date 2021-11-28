@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://3254255781.github.io/miku.github.io/</id>
     <title>lixiaojuan</title>
-    <updated>2021-11-28T11:02:27.668Z</updated>
+    <updated>2021-11-28T11:03:48.957Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://3254255781.github.io/miku.github.io/"/>
     <link rel="self" href="https://3254255781.github.io/miku.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://3254255781.github.io/miku.github.io/images/avatar.png</logo>
     <icon>https://3254255781.github.io/miku.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, lixiaojuan</rights>
+    <entry>
+        <title type="html"><![CDATA[这是一个为miku搭建的小站]]></title>
+        <id>https://3254255781.github.io/miku.github.io/post/zhe-shi-yi-ge-wei-miku-da-jian-de-xiao-zhan/</id>
+        <link href="https://3254255781.github.io/miku.github.io/post/zhe-shi-yi-ge-wei-miku-da-jian-de-xiao-zhan/">
+        </link>
+        <updated>2021-11-28T11:02:47.000Z</updated>
+        <content type="html"><![CDATA[<p>😊</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[关于歌姬计划]]></title>
         <id>https://3254255781.github.io/miku.github.io/post/guan-yu-ge-ji-ji-hua/</id>
